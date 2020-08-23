@@ -2,15 +2,10 @@
 
 # RTCMultiConnection - WebRTC JavaScript Library
 
-[![npm](https://img.shields.io/npm/v/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RTCMultiConnection.png?branch=master)](https://travis-ci.org/muaz-khan/RTCMultiConnection)
+[![npm](https://img.shields.io/npm/v/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection)
 
 > RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 
-## Socket.io Signaling Server
-
-Signaling server has a separate repository:
-
-* https://github.com/muaz-khan/RTCMultiConnection-Server
 
 ## Demos
 
@@ -26,7 +21,7 @@ Signaling server has a separate repository:
 
 ## Install On Your Own Website
 
-* https://github.com/muaz-khan/RTCMultiConnection/tree/master/docs/installation-guide.md
+
 
 ```sh
 mkdir demo && cd demo
@@ -46,21 +41,21 @@ node server --port=9001
 
 ## Integrate Inside Any Nodejs Application
 
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/Integrate-inside-nodejs-applications
+* https://github.com/elyor0529/RTC_multiconnect/wiki/Integrate-inside-nodejs-applications
 
 ## `Config.json` Explained
 
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/config.json
+* https://github.com/elyor0529/RTC_multiconnect/wiki/config.json
 
 ## How to Enable HTTPs?
 
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/How-to-Enable-HTTPs
+* https://github.com/elyor0529/RTC_multiconnect/wiki/How-to-Enable-HTTPs
 
 ## Want to Contribute?
 
 RTCMultiConnection is using `Grunt` to compile javascript into `dist` directory:
 
-* https://github.com/muaz-khan/RTCMultiConnection/blob/master/CONTRIBUTING.md
+* https://github.com/elyor0529/RTC_multiconnect/blob/master/CONTRIBUTING.md
 
 ## Wiki Pages
 
