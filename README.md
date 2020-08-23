@@ -30,7 +30,7 @@ mkdir demo && cd demo
 npm install rtcmulticonnection
 
 # or clone from github
-git clone https://github.com/muaz-khan/RTCMultiConnection.git ./
+git clone https://github.com/elyor0529/RTC_multiconnect.git ./
 
 # install all required packages
 # you can optionally include --save-dev
@@ -59,9 +59,9 @@ RTCMultiConnection is using `Grunt` to compile javascript into `dist` directory:
 
 ## Wiki Pages
 
-1. https://github.com/muaz-khan/RTCMultiConnection/wiki
-2. https://github.com/muaz-khan/RTCMultiConnection-Server/wiki
+1. https://github.com/elyor0529/RTC_multiconnect/wiki
+2. https://github.com/elyor0529/RTC_multiconnect-Server/wiki
 
 ## License
 
-[RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) is released under [MIT licence](https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md) . Copyright (c) [Muaz Khan](https://MuazKhan.com/).
+[RTCMultiConnection](https://github.com/elyor0529/RTC_multiconnect) is released under [MIT licence](https://github.com/elyor0529/RTC_multiconnect/blob/master/LICENSE.md)
